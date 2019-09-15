@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-860_api_url = 'https://api.coinmarketcap.com/v1/ticker/860/'
-response = requests.get(860_api_url)
+ravencoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/ravencoin/'
+response = requests.get(ravencoin_api_url)
 response_json = response.json()
 print(response_json)
 

@@ -1,5 +1,5 @@
-# 860 price 
+# ravencoin price 
 
-Gets the 860 price with Python (from JSON).
+Gets the ravencoin price with Python (from JSON).
 
 https://pythonbasics.org
