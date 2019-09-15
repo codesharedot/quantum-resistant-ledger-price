@@ -1,5 +1,5 @@
-# bitcoin-gold price 
+# zb price 
 
-Gets the bitcoin-gold price with Python (from JSON).
+Gets the zb price with Python (from JSON).
 
 https://pythonbasics.org

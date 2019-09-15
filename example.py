@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-bitcoin-gold_api_url = 'https://api.coinmarketcap.com/v1/ticker/bitcoin-gold/'
-response = requests.get(bitcoin-gold_api_url)
+zb_api_url = 'https://api.coinmarketcap.com/v1/ticker/zb/'
+response = requests.get(zb_api_url)
 response_json = response.json()
 print(response_json)
 
