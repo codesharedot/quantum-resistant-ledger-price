@@ -1,5 +1,5 @@
-# zb price 
+# 860 price 
 
-Gets the zb price with Python (from JSON).
+Gets the 860 price with Python (from JSON).
 
 https://pythonbasics.org
