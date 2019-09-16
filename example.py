@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-holo_api_url = 'https://api.coinmarketcap.com/v1/ticker/holo/'
-response = requests.get(holo_api_url)
+algorand_api_url = 'https://api.coinmarketcap.com/v1/ticker/algorand/'
+response = requests.get(algorand_api_url)
 response_json = response.json()
 print(response_json)
 

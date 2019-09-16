@@ -1,5 +1,5 @@
-# holo price 
+# algorand price 
 
-Gets the holo price with Python (from JSON).
+Gets the algorand price with Python (from JSON).
 
 https://pythonbasics.org
