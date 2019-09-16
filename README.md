@@ -1,5 +1,5 @@
-# nano price 
+# augur price 
 
-Gets the nano price with Python (from JSON).
+Gets the augur price with Python (from JSON).
 
 https://pythonbasics.org

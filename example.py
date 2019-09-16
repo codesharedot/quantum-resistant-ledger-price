@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-nano_api_url = 'https://api.coinmarketcap.com/v1/ticker/nano/'
-response = requests.get(nano_api_url)
+augur_api_url = 'https://api.coinmarketcap.com/v1/ticker/augur/'
+response = requests.get(augur_api_url)
 response_json = response.json()
 print(response_json)
 
