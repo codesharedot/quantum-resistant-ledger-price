@@ -1,5 +1,5 @@
-# insight-chain price 
+# bitcoin-diamond price 
 
-Gets the insight-chain price with Python (from JSON).
+Gets the bitcoin-diamond price with Python (from JSON).
 
 https://pythonbasics.org
