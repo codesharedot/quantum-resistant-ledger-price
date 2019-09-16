@@ -1,5 +1,5 @@
-# ravencoin price 
+# nano price 
 
-Gets the ravencoin price with Python (from JSON).
+Gets the nano price with Python (from JSON).
 
 https://pythonbasics.org
