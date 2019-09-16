@@ -1,5 +1,5 @@
-# algorand price 
+# icon price 
 
-Gets the algorand price with Python (from JSON).
+Gets the icon price with Python (from JSON).
 
 https://pythonbasics.org

@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-algorand_api_url = 'https://api.coinmarketcap.com/v1/ticker/algorand/'
-response = requests.get(algorand_api_url)
+icon_api_url = 'https://api.coinmarketcap.com/v1/ticker/icon/'
+response = requests.get(icon_api_url)
 response_json = response.json()
 print(response_json)
 
