@@ -1,5 +1,5 @@
-# bitcoin-diamond price 
+# lisk price 
 
-Gets the bitcoin-diamond price with Python (from JSON).
+Gets the lisk price with Python (from JSON).
 
 https://pythonbasics.org

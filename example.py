@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-bitcoin-diamond_api_url = 'https://api.coinmarketcap.com/v1/ticker/bitcoin-diamond/'
-response = requests.get(bitcoin-diamond_api_url)
+lisk_api_url = 'https://api.coinmarketcap.com/v1/ticker/lisk/'
+response = requests.get(lisk_api_url)
 response_json = response.json()
 print(response_json)
 
