@@ -1,5 +1,5 @@
-# lisk price 
+# holo price 
 
-Gets the lisk price with Python (from JSON).
+Gets the holo price with Python (from JSON).
 
 https://pythonbasics.org
