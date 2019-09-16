@@ -1,5 +1,5 @@
-# augur price 
+# insight-chain price 
 
-Gets the augur price with Python (from JSON).
+Gets the insight-chain price with Python (from JSON).
 
 https://pythonbasics.org

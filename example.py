@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-augur_api_url = 'https://api.coinmarketcap.com/v1/ticker/augur/'
-response = requests.get(augur_api_url)
+insight-chain_api_url = 'https://api.coinmarketcap.com/v1/ticker/insight-chain/'
+response = requests.get(insight-chain_api_url)
 response_json = response.json()
 print(response_json)
 
