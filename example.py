@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-bytecoin-bcn_api_url = 'https://api.coinmarketcap.com/v1/ticker/bytecoin-bcn/'
-response = requests.get(bytecoin-bcn_api_url)
+pundi-x_api_url = 'https://api.coinmarketcap.com/v1/ticker/pundi-x/'
+response = requests.get(pundi-x_api_url)
 response_json = response.json()
 print(response_json)
 

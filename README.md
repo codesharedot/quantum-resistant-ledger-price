@@ -1,5 +1,5 @@
-# bytecoin-bcn price 
+# pundi-x price 
 
-Gets the bytecoin-bcn price with Python (from JSON).
+Gets the pundi-x price with Python (from JSON).
 
 https://pythonbasics.org
