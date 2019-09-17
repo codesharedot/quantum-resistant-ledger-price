@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-komodo_api_url = 'https://api.coinmarketcap.com/v1/ticker/komodo/'
-response = requests.get(komodo_api_url)
+iostoken_api_url = 'https://api.coinmarketcap.com/v1/ticker/iostoken/'
+response = requests.get(iostoken_api_url)
 response_json = response.json()
 print(response_json)
 

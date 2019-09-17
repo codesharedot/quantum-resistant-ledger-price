@@ -1,5 +1,5 @@
-# komodo price 
+# iostoken price 
 
-Gets the komodo price with Python (from JSON).
+Gets the iostoken price with Python (from JSON).
 
 https://pythonbasics.org
