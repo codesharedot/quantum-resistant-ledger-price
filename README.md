@@ -1,5 +1,5 @@
-# iostoken price 
+# dai price 
 
-Gets the iostoken price with Python (from JSON).
+Gets the dai price with Python (from JSON).
 
 https://pythonbasics.org
