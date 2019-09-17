@@ -1,5 +1,5 @@
-# aurora price 
+# bytom price 
 
-Gets the aurora price with Python (from JSON).
+Gets the bytom price with Python (from JSON).
 
 https://pythonbasics.org

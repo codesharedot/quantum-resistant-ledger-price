@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-aurora_api_url = 'https://api.coinmarketcap.com/v1/ticker/aurora/'
-response = requests.get(aurora_api_url)
+bytom_api_url = 'https://api.coinmarketcap.com/v1/ticker/bytom/'
+response = requests.get(bytom_api_url)
 response_json = response.json()
 print(response_json)
 
