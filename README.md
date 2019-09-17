@@ -1,5 +1,5 @@
-# siacoin price 
+# verge price 
 
-Gets the siacoin price with Python (from JSON).
+Gets the verge price with Python (from JSON).
 
 https://pythonbasics.org
