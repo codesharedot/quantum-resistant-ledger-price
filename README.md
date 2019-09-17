@@ -1,5 +1,5 @@
-# hypercash price 
+# bytecoin-bcn price 
 
-Gets the hypercash price with Python (from JSON).
+Gets the bytecoin-bcn price with Python (from JSON).
 
 https://pythonbasics.org

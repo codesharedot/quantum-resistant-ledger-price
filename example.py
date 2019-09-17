@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-hypercash_api_url = 'https://api.coinmarketcap.com/v1/ticker/hypercash/'
-response = requests.get(hypercash_api_url)
+bytecoin-bcn_api_url = 'https://api.coinmarketcap.com/v1/ticker/bytecoin-bcn/'
+response = requests.get(bytecoin-bcn_api_url)
 response_json = response.json()
 print(response_json)
 
