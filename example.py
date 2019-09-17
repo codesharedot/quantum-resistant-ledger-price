@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-pundi-x_api_url = 'https://api.coinmarketcap.com/v1/ticker/pundi-x/'
-response = requests.get(pundi-x_api_url)
+komodo_api_url = 'https://api.coinmarketcap.com/v1/ticker/komodo/'
+response = requests.get(komodo_api_url)
 response_json = response.json()
 print(response_json)
 

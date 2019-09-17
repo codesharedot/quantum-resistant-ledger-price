@@ -1,5 +1,5 @@
-# pundi-x price 
+# komodo price 
 
-Gets the pundi-x price with Python (from JSON).
+Gets the komodo price with Python (from JSON).
 
 https://pythonbasics.org
