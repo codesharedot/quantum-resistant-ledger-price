@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-dai_api_url = 'https://api.coinmarketcap.com/v1/ticker/dai/'
-response = requests.get(dai_api_url)
+aurora_api_url = 'https://api.coinmarketcap.com/v1/ticker/aurora/'
+response = requests.get(aurora_api_url)
 response_json = response.json()
 print(response_json)
 

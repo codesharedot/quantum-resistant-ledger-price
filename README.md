@@ -1,5 +1,5 @@
-# dai price 
+# aurora price 
 
-Gets the dai price with Python (from JSON).
+Gets the aurora price with Python (from JSON).
 
 https://pythonbasics.org
