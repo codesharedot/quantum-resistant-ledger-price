@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-bytom_api_url = 'https://api.coinmarketcap.com/v1/ticker/bytom/'
-response = requests.get(bytom_api_url)
+siacoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/siacoin/'
+response = requests.get(siacoin_api_url)
 response_json = response.json()
 print(response_json)
 

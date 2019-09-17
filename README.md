@@ -1,5 +1,5 @@
-# bytom price 
+# siacoin price 
 
-Gets the bytom price with Python (from JSON).
+Gets the siacoin price with Python (from JSON).
 
 https://pythonbasics.org
