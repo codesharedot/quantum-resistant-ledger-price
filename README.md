@@ -1,5 +1,5 @@
-# 817 price 
+# hypercash price 
 
-Gets the 817 price with Python (from JSON).
+Gets the hypercash price with Python (from JSON).
 
 https://pythonbasics.org
