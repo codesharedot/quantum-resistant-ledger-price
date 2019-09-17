@@ -1,5 +1,5 @@
-# theta price 
+# 0x price 
 
-Gets the theta price with Python (from JSON).
+Gets the 0x price with Python (from JSON).
 
 https://pythonbasics.org

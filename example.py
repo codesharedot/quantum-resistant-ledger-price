@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-theta_api_url = 'https://api.coinmarketcap.com/v1/ticker/theta/'
-response = requests.get(theta_api_url)
+0x_api_url = 'https://api.coinmarketcap.com/v1/ticker/0x/'
+response = requests.get(0x_api_url)
 response_json = response.json()
 print(response_json)
 
