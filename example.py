@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-waves_api_url = 'https://api.coinmarketcap.com/v1/ticker/waves/'
-response = requests.get(waves_api_url)
+maidsafecoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/maidsafecoin/'
+response = requests.get(maidsafecoin_api_url)
 response_json = response.json()
 print(response_json)
 

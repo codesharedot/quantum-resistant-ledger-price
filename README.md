@@ -1,5 +1,5 @@
-# waves price 
+# maidsafecoin price 
 
-Gets the waves price with Python (from JSON).
+Gets the maidsafecoin price with Python (from JSON).
 
 https://pythonbasics.org
