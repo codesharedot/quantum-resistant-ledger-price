@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-verge_api_url = 'https://api.coinmarketcap.com/v1/ticker/verge/'
-response = requests.get(verge_api_url)
+rif-token_api_url = 'https://api.coinmarketcap.com/v1/ticker/rif-token/'
+response = requests.get(rif-token_api_url)
 response_json = response.json()
 print(response_json)
 

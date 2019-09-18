@@ -1,5 +1,5 @@
-# verge price 
+# rif-token price 
 
-Gets the verge price with Python (from JSON).
+Gets the rif-token price with Python (from JSON).
 
 https://pythonbasics.org
