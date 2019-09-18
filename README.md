@@ -1,5 +1,5 @@
-# metaverse price 
+# ardor price 
 
-Gets the metaverse price with Python (from JSON).
+Gets the ardor price with Python (from JSON).
 
 https://pythonbasics.org
