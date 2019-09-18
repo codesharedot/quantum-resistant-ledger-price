@@ -1,5 +1,5 @@
-# aeternity price 
+# metaverse price 
 
-Gets the aeternity price with Python (from JSON).
+Gets the metaverse price with Python (from JSON).
 
 https://pythonbasics.org

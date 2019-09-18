@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-aeternity_api_url = 'https://api.coinmarketcap.com/v1/ticker/aeternity/'
-response = requests.get(aeternity_api_url)
+metaverse_api_url = 'https://api.coinmarketcap.com/v1/ticker/metaverse/'
+response = requests.get(metaverse_api_url)
 response_json = response.json()
 print(response_json)
 
