@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-monacoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/monacoin/'
-response = requests.get(monacoin_api_url)
+energi_api_url = 'https://api.coinmarketcap.com/v1/ticker/energi/'
+response = requests.get(energi_api_url)
 response_json = response.json()
 print(response_json)
 

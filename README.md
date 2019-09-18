@@ -1,5 +1,5 @@
-# monacoin price 
+# energi price 
 
-Gets the monacoin price with Python (from JSON).
+Gets the energi price with Python (from JSON).
 
 https://pythonbasics.org
