@@ -1,5 +1,5 @@
-# quant price 
+# monacoin price 
 
-Gets the quant price with Python (from JSON).
+Gets the monacoin price with Python (from JSON).
 
 https://pythonbasics.org
