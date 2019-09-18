@@ -1,5 +1,5 @@
-# energi price 
+# zilliqa price 
 
-Gets the energi price with Python (from JSON).
+Gets the zilliqa price with Python (from JSON).
 
 https://pythonbasics.org
