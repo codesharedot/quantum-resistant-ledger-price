@@ -1,5 +1,5 @@
-# zilliqa price 
+# aeternity price 
 
-Gets the zilliqa price with Python (from JSON).
+Gets the aeternity price with Python (from JSON).
 
 https://pythonbasics.org
