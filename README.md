@@ -1,5 +1,5 @@
-# clipper-coin price 
+# silverway price 
 
-Gets the clipper-coin price with Python (from JSON).
+Gets the silverway price with Python (from JSON).
 
 https://pythonbasics.org

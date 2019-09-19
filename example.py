@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-clipper-coin_api_url = 'https://api.coinmarketcap.com/v1/ticker/clipper-coin/'
-response = requests.get(clipper-coin_api_url)
+silverway_api_url = 'https://api.coinmarketcap.com/v1/ticker/silverway/'
+response = requests.get(silverway_api_url)
 response_json = response.json()
 print(response_json)
 
