@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-atlantis-blue-digital-token_api_url = 'https://api.coinmarketcap.com/v1/ticker/atlantis-blue-digital-token/'
-response = requests.get(atlantis-blue-digital-token_api_url)
+minebee_api_url = 'https://api.coinmarketcap.com/v1/ticker/minebee/'
+response = requests.get(minebee_api_url)
 response_json = response.json()
 print(response_json)
 

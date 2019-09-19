@@ -1,5 +1,5 @@
-# atlantis-blue-digital-token price 
+# minebee price 
 
-Gets the atlantis-blue-digital-token price with Python (from JSON).
+Gets the minebee price with Python (from JSON).
 
 https://pythonbasics.org
