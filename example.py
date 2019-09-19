@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-karatgold-coin_api_url = 'https://api.coinmarketcap.com/v1/ticker/karatgold-coin/'
-response = requests.get(karatgold-coin_api_url)
+oasis-city_api_url = 'https://api.coinmarketcap.com/v1/ticker/oasis-city/'
+response = requests.get(oasis-city_api_url)
 response_json = response.json()
 print(response_json)
 

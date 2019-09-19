@@ -1,5 +1,5 @@
-# karatgold-coin price 
+# oasis-city price 
 
-Gets the karatgold-coin price with Python (from JSON).
+Gets the oasis-city price with Python (from JSON).
 
 https://pythonbasics.org
