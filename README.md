@@ -1,5 +1,5 @@
-# oasis-city price 
+# clipper-coin price 
 
-Gets the oasis-city price with Python (from JSON).
+Gets the clipper-coin price with Python (from JSON).
 
 https://pythonbasics.org
