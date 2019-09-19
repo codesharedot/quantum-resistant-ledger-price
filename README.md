@@ -1,5 +1,5 @@
-# silverway price 
+# wixlar price 
 
-Gets the silverway price with Python (from JSON).
+Gets the wixlar price with Python (from JSON).
 
 https://pythonbasics.org
