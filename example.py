@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-minebee_api_url = 'https://api.coinmarketcap.com/v1/ticker/minebee/'
-response = requests.get(minebee_api_url)
+karatgold-coin_api_url = 'https://api.coinmarketcap.com/v1/ticker/karatgold-coin/'
+response = requests.get(karatgold-coin_api_url)
 response_json = response.json()
 print(response_json)
 

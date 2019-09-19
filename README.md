@@ -1,5 +1,5 @@
-# minebee price 
+# karatgold-coin price 
 
-Gets the minebee price with Python (from JSON).
+Gets the karatgold-coin price with Python (from JSON).
 
 https://pythonbasics.org
