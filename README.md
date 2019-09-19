@@ -1,5 +1,5 @@
-# bitbook-gambling price 
+# beldex price 
 
-Gets the bitbook-gambling price with Python (from JSON).
+Gets the beldex price with Python (from JSON).
 
 https://pythonbasics.org

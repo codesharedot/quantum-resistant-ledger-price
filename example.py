@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-bitbook-gambling_api_url = 'https://api.coinmarketcap.com/v1/ticker/bitbook-gambling/'
-response = requests.get(bitbook-gambling_api_url)
+beldex_api_url = 'https://api.coinmarketcap.com/v1/ticker/beldex/'
+response = requests.get(beldex_api_url)
 response_json = response.json()
 print(response_json)
 
