@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-wixlar_api_url = 'https://api.coinmarketcap.com/v1/ticker/wixlar/'
-response = requests.get(wixlar_api_url)
+bitbook-gambling_api_url = 'https://api.coinmarketcap.com/v1/ticker/bitbook-gambling/'
+response = requests.get(bitbook-gambling_api_url)
 response_json = response.json()
 print(response_json)
 

@@ -1,5 +1,5 @@
-# wixlar price 
+# bitbook-gambling price 
 
-Gets the wixlar price with Python (from JSON).
+Gets the bitbook-gambling price with Python (from JSON).
 
 https://pythonbasics.org
