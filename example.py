@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-beldex_api_url = 'https://api.coinmarketcap.com/v1/ticker/beldex/'
-response = requests.get(beldex_api_url)
+dynamic-trading-rights_api_url = 'https://api.coinmarketcap.com/v1/ticker/dynamic-trading-rights/'
+response = requests.get(dynamic-trading-rights_api_url)
 response_json = response.json()
 print(response_json)
 

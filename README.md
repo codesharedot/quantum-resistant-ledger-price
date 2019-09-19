@@ -1,5 +1,5 @@
-# beldex price 
+# dynamic-trading-rights price 
 
-Gets the beldex price with Python (from JSON).
+Gets the dynamic-trading-rights price with Python (from JSON).
 
 https://pythonbasics.org
