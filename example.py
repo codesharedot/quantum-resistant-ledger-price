@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-digibyte_api_url = 'https://api.coinmarketcap.com/v1/ticker/digibyte/'
-response = requests.get(digibyte_api_url)
+ino-coin_api_url = 'https://api.coinmarketcap.com/v1/ticker/ino-coin/'
+response = requests.get(ino-coin_api_url)
 response_json = response.json()
 print(response_json)
 

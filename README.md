@@ -1,5 +1,5 @@
-# digibyte price 
+# ino-coin price 
 
-Gets the digibyte price with Python (from JSON).
+Gets the ino-coin price with Python (from JSON).
 
 https://pythonbasics.org
