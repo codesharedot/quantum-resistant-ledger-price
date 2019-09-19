@@ -1,5 +1,5 @@
-# ardor price 
+# abbc-coin price 
 
-Gets the ardor price with Python (from JSON).
+Gets the abbc-coin price with Python (from JSON).
 
 https://pythonbasics.org
