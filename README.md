@@ -1,5 +1,5 @@
-# abbc-coin price 
+# digibyte price 
 
-Gets the abbc-coin price with Python (from JSON).
+Gets the digibyte price with Python (from JSON).
 
 https://pythonbasics.org
