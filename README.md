@@ -1,5 +1,5 @@
-# japan-content-token price 
+# litex price 
 
-Gets the japan-content-token price with Python (from JSON).
+Gets the litex price with Python (from JSON).
 
 https://pythonbasics.org

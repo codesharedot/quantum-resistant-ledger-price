@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-japan-content-token_api_url = 'https://api.coinmarketcap.com/v1/ticker/japan-content-token/'
-response = requests.get(japan-content-token_api_url)
+litex_api_url = 'https://api.coinmarketcap.com/v1/ticker/litex/'
+response = requests.get(litex_api_url)
 response_json = response.json()
 print(response_json)
 
