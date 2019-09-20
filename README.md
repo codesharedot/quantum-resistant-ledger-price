@@ -1,5 +1,5 @@
-# bit-z-token price 
+# fnb-protocol price 
 
-Gets the bit-z-token price with Python (from JSON).
+Gets the fnb-protocol price with Python (from JSON).
 
 https://pythonbasics.org

@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-bit-z-token_api_url = 'https://api.coinmarketcap.com/v1/ticker/bit-z-token/'
-response = requests.get(bit-z-token_api_url)
+fnb-protocol_api_url = 'https://api.coinmarketcap.com/v1/ticker/fnb-protocol/'
+response = requests.get(fnb-protocol_api_url)
 response_json = response.json()
 print(response_json)
 
