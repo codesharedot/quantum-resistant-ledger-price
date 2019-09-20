@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-buggyra-coin-zero_api_url = 'https://api.coinmarketcap.com/v1/ticker/buggyra-coin-zero/'
-response = requests.get(buggyra-coin-zero_api_url)
+bankera_api_url = 'https://api.coinmarketcap.com/v1/ticker/bankera/'
+response = requests.get(bankera_api_url)
 response_json = response.json()
 print(response_json)
 

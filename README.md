@@ -1,5 +1,5 @@
-# buggyra-coin-zero price 
+# bankera price 
 
-Gets the buggyra-coin-zero price with Python (from JSON).
+Gets the bankera price with Python (from JSON).
 
 https://pythonbasics.org
