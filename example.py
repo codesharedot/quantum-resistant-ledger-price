@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-okb_api_url = 'https://api.coinmarketcap.com/v1/ticker/okb/'
-response = requests.get(okb_api_url)
+bitforex-token_api_url = 'https://api.coinmarketcap.com/v1/ticker/bitforex-token/'
+response = requests.get(bitforex-token_api_url)
 response_json = response.json()
 print(response_json)
 

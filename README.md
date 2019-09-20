@@ -1,5 +1,5 @@
-# okb price 
+# bitforex-token price 
 
-Gets the okb price with Python (from JSON).
+Gets the bitforex-token price with Python (from JSON).
 
 https://pythonbasics.org
