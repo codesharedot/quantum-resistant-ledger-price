@@ -1,5 +1,5 @@
-# cryptoindex-com-100 price 
+# buggyra-coin-zero price 
 
-Gets the cryptoindex-com-100 price with Python (from JSON).
+Gets the buggyra-coin-zero price with Python (from JSON).
 
 https://pythonbasics.org
