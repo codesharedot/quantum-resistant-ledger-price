@@ -1,5 +1,5 @@
-# fnb-protocol price 
+# japan-content-token price 
 
-Gets the fnb-protocol price with Python (from JSON).
+Gets the japan-content-token price with Python (from JSON).
 
 https://pythonbasics.org
