@@ -1,5 +1,5 @@
-# bitforex-token price 
+# cryptoindex-com-100 price 
 
-Gets the bitforex-token price with Python (from JSON).
+Gets the cryptoindex-com-100 price with Python (from JSON).
 
 https://pythonbasics.org
