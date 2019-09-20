@@ -1,5 +1,5 @@
-# litex price 
+# 1irstcoin price 
 
-Gets the litex price with Python (from JSON).
+Gets the 1irstcoin price with Python (from JSON).
 
 https://pythonbasics.org

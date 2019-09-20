@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-litex_api_url = 'https://api.coinmarketcap.com/v1/ticker/litex/'
-response = requests.get(litex_api_url)
+1irstcoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/1irstcoin/'
+response = requests.get(1irstcoin_api_url)
 response_json = response.json()
 print(response_json)
 
