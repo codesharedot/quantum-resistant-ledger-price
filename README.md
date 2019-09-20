@@ -1,5 +1,5 @@
-# dynamic-trading-rights price 
+# okb price 
 
-Gets the dynamic-trading-rights price with Python (from JSON).
+Gets the okb price with Python (from JSON).
 
 https://pythonbasics.org

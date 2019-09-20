@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-dynamic-trading-rights_api_url = 'https://api.coinmarketcap.com/v1/ticker/dynamic-trading-rights/'
-response = requests.get(dynamic-trading-rights_api_url)
+okb_api_url = 'https://api.coinmarketcap.com/v1/ticker/okb/'
+response = requests.get(okb_api_url)
 response_json = response.json()
 print(response_json)
 
