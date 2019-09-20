@@ -1,5 +1,5 @@
-# eternal-token price 
+# bit-z-token price 
 
-Gets the eternal-token price with Python (from JSON).
+Gets the bit-z-token price with Python (from JSON).
 
 https://pythonbasics.org
