@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-bankera_api_url = 'https://api.coinmarketcap.com/v1/ticker/bankera/'
-response = requests.get(bankera_api_url)
+eternal-token_api_url = 'https://api.coinmarketcap.com/v1/ticker/eternal-token/'
+response = requests.get(eternal-token_api_url)
 response_json = response.json()
 print(response_json)
 
