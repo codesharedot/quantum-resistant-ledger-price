@@ -1,5 +1,5 @@
-# 1irstcoin price 
+# agavecoin price 
 
-Gets the 1irstcoin price with Python (from JSON).
+Gets the agavecoin price with Python (from JSON).
 
 https://pythonbasics.org

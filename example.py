@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-1irstcoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/1irstcoin/'
-response = requests.get(1irstcoin_api_url)
+agavecoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/agavecoin/'
+response = requests.get(agavecoin_api_url)
 response_json = response.json()
 print(response_json)
 
