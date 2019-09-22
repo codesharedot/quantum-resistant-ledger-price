@@ -1,5 +1,5 @@
-# botxcoin price 
+# ultiledger price 
 
-Gets the botxcoin price with Python (from JSON).
+Gets the ultiledger price with Python (from JSON).
 
 https://pythonbasics.org
