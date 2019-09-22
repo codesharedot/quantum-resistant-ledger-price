@@ -1,5 +1,5 @@
-# microbitcoin price 
+# btu-protocol price 
 
-Gets the microbitcoin price with Python (from JSON).
+Gets the btu-protocol price with Python (from JSON).
 
 https://pythonbasics.org
