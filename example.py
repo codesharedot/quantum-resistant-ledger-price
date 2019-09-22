@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-btu-protocol_api_url = 'https://api.coinmarketcap.com/v1/ticker/btu-protocol/'
-response = requests.get(btu-protocol_api_url)
+centrality_api_url = 'https://api.coinmarketcap.com/v1/ticker/centrality/'
+response = requests.get(centrality_api_url)
 response_json = response.json()
 print(response_json)
 

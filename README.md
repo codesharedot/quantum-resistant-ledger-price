@@ -1,5 +1,5 @@
-# btu-protocol price 
+# centrality price 
 
-Gets the btu-protocol price with Python (from JSON).
+Gets the centrality price with Python (from JSON).
 
 https://pythonbasics.org
