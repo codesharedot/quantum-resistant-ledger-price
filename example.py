@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-fabrk_api_url = 'https://api.coinmarketcap.com/v1/ticker/fabrk/'
-response = requests.get(fabrk_api_url)
+prizm_api_url = 'https://api.coinmarketcap.com/v1/ticker/prizm/'
+response = requests.get(prizm_api_url)
 response_json = response.json()
 print(response_json)
 
