@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-vestchain_api_url = 'https://api.coinmarketcap.com/v1/ticker/vestchain/'
-response = requests.get(vestchain_api_url)
+fabrk_api_url = 'https://api.coinmarketcap.com/v1/ticker/fabrk/'
+response = requests.get(fabrk_api_url)
 response_json = response.json()
 print(response_json)
 

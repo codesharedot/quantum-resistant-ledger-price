@@ -1,5 +1,5 @@
-# vestchain price 
+# fabrk price 
 
-Gets the vestchain price with Python (from JSON).
+Gets the fabrk price with Python (from JSON).
 
 https://pythonbasics.org
