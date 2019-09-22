@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-moac_api_url = 'https://api.coinmarketcap.com/v1/ticker/moac/'
-response = requests.get(moac_api_url)
+botxcoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/botxcoin/'
+response = requests.get(botxcoin_api_url)
 response_json = response.json()
 print(response_json)
 

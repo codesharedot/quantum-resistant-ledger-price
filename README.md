@@ -1,5 +1,5 @@
-# moac price 
+# botxcoin price 
 
-Gets the moac price with Python (from JSON).
+Gets the botxcoin price with Python (from JSON).
 
 https://pythonbasics.org
