@@ -1,5 +1,5 @@
-# bitcoinhd price 
+# vestchain price 
 
-Gets the bitcoinhd price with Python (from JSON).
+Gets the vestchain price with Python (from JSON).
 
 https://pythonbasics.org

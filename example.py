@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-bitcoinhd_api_url = 'https://api.coinmarketcap.com/v1/ticker/bitcoinhd/'
-response = requests.get(bitcoinhd_api_url)
+vestchain_api_url = 'https://api.coinmarketcap.com/v1/ticker/vestchain/'
+response = requests.get(vestchain_api_url)
 response_json = response.json()
 print(response_json)
 
