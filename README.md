@@ -1,5 +1,5 @@
-# ultiledger price 
+# microbitcoin price 
 
-Gets the ultiledger price with Python (from JSON).
+Gets the microbitcoin price with Python (from JSON).
 
 https://pythonbasics.org
