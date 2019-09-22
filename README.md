@@ -1,5 +1,5 @@
-# agavecoin price 
+# bitcoinhd price 
 
-Gets the agavecoin price with Python (from JSON).
+Gets the bitcoinhd price with Python (from JSON).
 
 https://pythonbasics.org
