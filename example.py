@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-obyte_api_url = 'https://api.coinmarketcap.com/v1/ticker/obyte/'
-response = requests.get(obyte_api_url)
+bitcoin2_api_url = 'https://api.coinmarketcap.com/v1/ticker/bitcoin2/'
+response = requests.get(bitcoin2_api_url)
 response_json = response.json()
 print(response_json)
 

@@ -1,5 +1,5 @@
-# obyte price 
+# bitcoin2 price 
 
-Gets the obyte price with Python (from JSON).
+Gets the bitcoin2 price with Python (from JSON).
 
 https://pythonbasics.org
