@@ -1,5 +1,5 @@
-# bitrue-coin price 
+# medx price 
 
-Gets the bitrue-coin price with Python (from JSON).
+Gets the medx price with Python (from JSON).
 
 https://pythonbasics.org

@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-bitrue-coin_api_url = 'https://api.coinmarketcap.com/v1/ticker/bitrue-coin/'
-response = requests.get(bitrue-coin_api_url)
+medx_api_url = 'https://api.coinmarketcap.com/v1/ticker/medx/'
+response = requests.get(medx_api_url)
 response_json = response.json()
 print(response_json)
 
