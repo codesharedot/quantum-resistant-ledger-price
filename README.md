@@ -1,5 +1,5 @@
-# centrality price 
+# obyte price 
 
-Gets the centrality price with Python (from JSON).
+Gets the obyte price with Python (from JSON).
 
 https://pythonbasics.org
