@@ -1,5 +1,5 @@
-# carry price 
+# gowithmi price 
 
-Gets the carry price with Python (from JSON).
+Gets the gowithmi price with Python (from JSON).
 
 https://pythonbasics.org
