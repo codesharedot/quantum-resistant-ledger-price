@@ -1,5 +1,5 @@
-# gowithmi price 
+# ripio-credit-network price 
 
-Gets the gowithmi price with Python (from JSON).
+Gets the ripio-credit-network price with Python (from JSON).
 
 https://pythonbasics.org

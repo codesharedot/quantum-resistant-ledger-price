@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-gowithmi_api_url = 'https://api.coinmarketcap.com/v1/ticker/gowithmi/'
-response = requests.get(gowithmi_api_url)
+ripio-credit-network_api_url = 'https://api.coinmarketcap.com/v1/ticker/ripio-credit-network/'
+response = requests.get(ripio-credit-network_api_url)
 response_json = response.json()
 print(response_json)
 
