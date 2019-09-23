@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-unobtanium_api_url = 'https://api.coinmarketcap.com/v1/ticker/unobtanium/'
-response = requests.get(unobtanium_api_url)
+bitrue-coin_api_url = 'https://api.coinmarketcap.com/v1/ticker/bitrue-coin/'
+response = requests.get(bitrue-coin_api_url)
 response_json = response.json()
 print(response_json)
 

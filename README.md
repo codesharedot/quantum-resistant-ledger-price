@@ -1,5 +1,5 @@
-# unobtanium price 
+# bitrue-coin price 
 
-Gets the unobtanium price with Python (from JSON).
+Gets the bitrue-coin price with Python (from JSON).
 
 https://pythonbasics.org
