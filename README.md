@@ -1,5 +1,5 @@
-# ipchain price 
+# unobtanium price 
 
-Gets the ipchain price with Python (from JSON).
+Gets the unobtanium price with Python (from JSON).
 
 https://pythonbasics.org

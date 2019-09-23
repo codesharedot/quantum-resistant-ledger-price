@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-ipchain_api_url = 'https://api.coinmarketcap.com/v1/ticker/ipchain/'
-response = requests.get(ipchain_api_url)
+unobtanium_api_url = 'https://api.coinmarketcap.com/v1/ticker/unobtanium/'
+response = requests.get(unobtanium_api_url)
 response_json = response.json()
 print(response_json)
 
