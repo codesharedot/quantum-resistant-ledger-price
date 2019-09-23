@@ -1,5 +1,5 @@
-# particl price 
+# moeda-loyalty-points price 
 
-Gets the particl price with Python (from JSON).
+Gets the moeda-loyalty-points price with Python (from JSON).
 
 https://pythonbasics.org
