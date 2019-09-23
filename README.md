@@ -1,5 +1,5 @@
-# bitcoin2 price 
+# ipchain price 
 
-Gets the bitcoin2 price with Python (from JSON).
+Gets the ipchain price with Python (from JSON).
 
 https://pythonbasics.org
