@@ -1,5 +1,5 @@
-# medx price 
+# carry price 
 
-Gets the medx price with Python (from JSON).
+Gets the carry price with Python (from JSON).
 
 https://pythonbasics.org
