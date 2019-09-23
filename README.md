@@ -1,5 +1,5 @@
-# ripio-credit-network price 
+# particl price 
 
-Gets the ripio-credit-network price with Python (from JSON).
+Gets the particl price with Python (from JSON).
 
 https://pythonbasics.org
