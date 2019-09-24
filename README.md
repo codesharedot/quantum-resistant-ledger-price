@@ -1,5 +1,5 @@
-# reserve-rights price 
+# repo price 
 
-Gets the reserve-rights price with Python (from JSON).
+Gets the repo price with Python (from JSON).
 
 https://pythonbasics.org

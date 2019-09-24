@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-reserve-rights_api_url = 'https://api.coinmarketcap.com/v1/ticker/reserve-rights/'
-response = requests.get(reserve-rights_api_url)
+repo_api_url = 'https://api.coinmarketcap.com/v1/ticker/repo/'
+response = requests.get(repo_api_url)
 response_json = response.json()
 print(response_json)
 
