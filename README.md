@@ -1,5 +1,5 @@
-# pressone price 
+# mithril price 
 
-Gets the pressone price with Python (from JSON).
+Gets the mithril price with Python (from JSON).
 
 https://pythonbasics.org
