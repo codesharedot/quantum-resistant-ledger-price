@@ -1,5 +1,5 @@
-# medibloc price 
+# ddkoin price 
 
-Gets the medibloc price with Python (from JSON).
+Gets the ddkoin price with Python (from JSON).
 
 https://pythonbasics.org
