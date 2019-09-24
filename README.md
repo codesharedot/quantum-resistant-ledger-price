@@ -1,5 +1,5 @@
-# ddkoin price 
+# gifto price 
 
-Gets the ddkoin price with Python (from JSON).
+Gets the gifto price with Python (from JSON).
 
 https://pythonbasics.org
