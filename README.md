@@ -1,5 +1,5 @@
-# repo price 
+# time-new-bank price 
 
-Gets the repo price with Python (from JSON).
+Gets the time-new-bank price with Python (from JSON).
 
 https://pythonbasics.org
