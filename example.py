@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-ruff_api_url = 'https://api.coinmarketcap.com/v1/ticker/ruff/'
-response = requests.get(ruff_api_url)
+constellation_api_url = 'https://api.coinmarketcap.com/v1/ticker/constellation/'
+response = requests.get(constellation_api_url)
 response_json = response.json()
 print(response_json)
 

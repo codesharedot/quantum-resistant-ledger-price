@@ -1,5 +1,5 @@
-# ruff price 
+# constellation price 
 
-Gets the ruff price with Python (from JSON).
+Gets the constellation price with Python (from JSON).
 
 https://pythonbasics.org
