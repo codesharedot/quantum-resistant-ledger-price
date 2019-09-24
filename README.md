@@ -1,5 +1,5 @@
-# ilcoin price 
+# hycon price 
 
-Gets the ilcoin price with Python (from JSON).
+Gets the hycon price with Python (from JSON).
 
 https://pythonbasics.org

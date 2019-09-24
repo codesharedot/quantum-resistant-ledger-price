@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-ilcoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/ilcoin/'
-response = requests.get(ilcoin_api_url)
+hycon_api_url = 'https://api.coinmarketcap.com/v1/ticker/hycon/'
+response = requests.get(hycon_api_url)
 response_json = response.json()
 print(response_json)
 
