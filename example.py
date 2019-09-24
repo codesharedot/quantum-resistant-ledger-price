@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-bitkan_api_url = 'https://api.coinmarketcap.com/v1/ticker/bitkan/'
-response = requests.get(bitkan_api_url)
+pressone_api_url = 'https://api.coinmarketcap.com/v1/ticker/pressone/'
+response = requests.get(pressone_api_url)
 response_json = response.json()
 print(response_json)
 
