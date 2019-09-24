@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-moeda-loyalty-points_api_url = 'https://api.coinmarketcap.com/v1/ticker/moeda-loyalty-points/'
-response = requests.get(moeda-loyalty-points_api_url)
+bitkan_api_url = 'https://api.coinmarketcap.com/v1/ticker/bitkan/'
+response = requests.get(bitkan_api_url)
 response_json = response.json()
 print(response_json)
 

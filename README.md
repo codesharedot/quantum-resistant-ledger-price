@@ -1,5 +1,5 @@
-# moeda-loyalty-points price 
+# bitkan price 
 
-Gets the moeda-loyalty-points price with Python (from JSON).
+Gets the bitkan price with Python (from JSON).
 
 https://pythonbasics.org
