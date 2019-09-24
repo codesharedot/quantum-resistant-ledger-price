@@ -1,5 +1,5 @@
-# constellation price 
+# reserve-rights price 
 
-Gets the constellation price with Python (from JSON).
+Gets the reserve-rights price with Python (from JSON).
 
 https://pythonbasics.org
