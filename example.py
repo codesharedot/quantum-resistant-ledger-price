@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-poet_api_url = 'https://api.coinmarketcap.com/v1/ticker/poet/'
-response = requests.get(poet_api_url)
+medibloc_api_url = 'https://api.coinmarketcap.com/v1/ticker/medibloc/'
+response = requests.get(medibloc_api_url)
 response_json = response.json()
 print(response_json)
 

@@ -1,5 +1,5 @@
-# poet price 
+# medibloc price 
 
-Gets the poet price with Python (from JSON).
+Gets the medibloc price with Python (from JSON).
 
 https://pythonbasics.org
