@@ -1,5 +1,5 @@
-# mithril price 
+# ilcoin price 
 
-Gets the mithril price with Python (from JSON).
+Gets the ilcoin price with Python (from JSON).
 
 https://pythonbasics.org
