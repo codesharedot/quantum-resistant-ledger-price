@@ -1,5 +1,5 @@
-# everipedia price 
+# ruff price 
 
-Gets the everipedia price with Python (from JSON).
+Gets the ruff price with Python (from JSON).
 
 https://pythonbasics.org
