@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-time-new-bank_api_url = 'https://api.coinmarketcap.com/v1/ticker/time-new-bank/'
-response = requests.get(time-new-bank_api_url)
+poet_api_url = 'https://api.coinmarketcap.com/v1/ticker/poet/'
+response = requests.get(poet_api_url)
 response_json = response.json()
 print(response_json)
 

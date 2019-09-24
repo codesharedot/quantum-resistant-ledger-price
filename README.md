@@ -1,5 +1,5 @@
-# time-new-bank price 
+# poet price 
 
-Gets the time-new-bank price with Python (from JSON).
+Gets the poet price with Python (from JSON).
 
 https://pythonbasics.org
