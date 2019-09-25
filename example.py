@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-dentacoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/dentacoin/'
-response = requests.get(dentacoin_api_url)
+quantum-resistant-ledger_api_url = 'https://api.coinmarketcap.com/v1/ticker/quantum-resistant-ledger/'
+response = requests.get(quantum-resistant-ledger_api_url)
 response_json = response.json()
 print(response_json)
 

@@ -1,5 +1,5 @@
-# dentacoin price 
+# quantum-resistant-ledger price 
 
-Gets the dentacoin price with Python (from JSON).
+Gets the quantum-resistant-ledger price with Python (from JSON).
 
 https://pythonbasics.org
