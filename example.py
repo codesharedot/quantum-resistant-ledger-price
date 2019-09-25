@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-ocean-protocol_api_url = 'https://api.coinmarketcap.com/v1/ticker/ocean-protocol/'
-response = requests.get(ocean-protocol_api_url)
+flo_api_url = 'https://api.coinmarketcap.com/v1/ticker/flo/'
+response = requests.get(flo_api_url)
 response_json = response.json()
 print(response_json)
 

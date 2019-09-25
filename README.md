@@ -1,5 +1,5 @@
-# ocean-protocol price 
+# flo price 
 
-Gets the ocean-protocol price with Python (from JSON).
+Gets the flo price with Python (from JSON).
 
 https://pythonbasics.org
