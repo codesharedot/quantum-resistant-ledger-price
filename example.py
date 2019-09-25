@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-skycoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/skycoin/'
-response = requests.get(skycoin_api_url)
+commerceblock_api_url = 'https://api.coinmarketcap.com/v1/ticker/commerceblock/'
+response = requests.get(commerceblock_api_url)
 response_json = response.json()
 print(response_json)
 
