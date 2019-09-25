@@ -1,5 +1,5 @@
-# dragonchain price 
+# skycoin price 
 
-Gets the dragonchain price with Python (from JSON).
+Gets the skycoin price with Python (from JSON).
 
 https://pythonbasics.org
