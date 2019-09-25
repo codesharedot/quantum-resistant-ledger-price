@@ -1,5 +1,5 @@
-# storm price 
+# ocean-protocol price 
 
-Gets the storm price with Python (from JSON).
+Gets the ocean-protocol price with Python (from JSON).
 
 https://pythonbasics.org
