@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-egretia_api_url = 'https://api.coinmarketcap.com/v1/ticker/egretia/'
-response = requests.get(egretia_api_url)
+storm_api_url = 'https://api.coinmarketcap.com/v1/ticker/storm/'
+response = requests.get(storm_api_url)
 response_json = response.json()
 print(response_json)
 
