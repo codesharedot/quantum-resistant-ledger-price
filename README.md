@@ -1,5 +1,5 @@
-# commerceblock price 
+# egretia price 
 
-Gets the commerceblock price with Python (from JSON).
+Gets the egretia price with Python (from JSON).
 
 https://pythonbasics.org
