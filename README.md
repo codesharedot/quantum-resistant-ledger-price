@@ -1,5 +1,5 @@
-# metadium price 
+# ztcoin price 
 
-Gets the metadium price with Python (from JSON).
+Gets the ztcoin price with Python (from JSON).
 
 https://pythonbasics.org
