@@ -1,5 +1,5 @@
-# ztcoin price 
+# dentacoin price 
 
-Gets the ztcoin price with Python (from JSON).
+Gets the dentacoin price with Python (from JSON).
 
 https://pythonbasics.org
