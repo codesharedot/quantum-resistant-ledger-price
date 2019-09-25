@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-gifto_api_url = 'https://api.coinmarketcap.com/v1/ticker/gifto/'
-response = requests.get(gifto_api_url)
+dragonchain_api_url = 'https://api.coinmarketcap.com/v1/ticker/dragonchain/'
+response = requests.get(dragonchain_api_url)
 response_json = response.json()
 print(response_json)
 
