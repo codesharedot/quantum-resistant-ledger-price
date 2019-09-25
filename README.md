@@ -1,5 +1,5 @@
-# flo price 
+# metadium price 
 
-Gets the flo price with Python (from JSON).
+Gets the metadium price with Python (from JSON).
 
 https://pythonbasics.org
